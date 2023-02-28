@@ -8,3 +8,6 @@ EVEN MORE BLABLA
 BLABLAx100
 ## How To Contribute
 
+### Copyright
+
+2023 Git training
