@@ -13,4 +13,4 @@ BLABLAx100
 BLABLA to Contibute
 ### Copyright
 
-2023 Git training
+2023 Git training.  All rights reserved
