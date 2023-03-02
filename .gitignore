@@ -1,3 +1,4 @@
 file_to_be_ignore.txt
 log
 *.orig
+*.bashrc
